@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.echoice.ums</groupId>
+  <artifactId>echoice-ums-core-boot</artifactId>
+  <versioning>
+    <release>1.0.1</release>
+    <versions>
+      <version>1.0.1</version>
+    </versions>
+    <lastUpdated>20171103030405</lastUpdated>
+  </versioning>
+</metadata>
