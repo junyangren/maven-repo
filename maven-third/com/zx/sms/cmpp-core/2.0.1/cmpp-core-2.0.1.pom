@@ -80,7 +80,11 @@
 			<artifactId>netty-codec</artifactId>
 			<version>${netty.version}</version>
 		</dependency>
-		
+		<dependency>
+			<groupId>io.netty</groupId>
+			<artifactId>netty-handler-proxy</artifactId>
+			<version>${netty.version}</version>
+		</dependency>
 		<dependency>
 			<groupId>io.netty</groupId>
 			<artifactId>netty-handler</artifactId>
@@ -213,12 +217,17 @@
 
 	</build>
 <distributionManagement>
+<!--
   <repository>
     <id>thirdparty</id>
-	<!--
     <url>http://192.168.100.10/nexus/content/repositories/thirdparty</url>
-	-->
-	<url>file://D://java//maven-repo//maven-third</url>
   </repository>
+ --> 
+
+	<repository>
+		<id>echoice-local</id>
+		<name>airobothub Repository</name>
+		<url>file://D://java//maven-repo//maven-third</url>
+	</repository>  
 </distributionManagement>
 </project>
