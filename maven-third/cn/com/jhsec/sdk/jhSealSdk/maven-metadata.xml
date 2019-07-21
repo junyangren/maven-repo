@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.com.jhsec.sdk</groupId>
+  <artifactId>jhSealSdk</artifactId>
+  <versioning>
+    <release>1.5</release>
+    <versions>
+      <version>1.5</version>
+    </versions>
+    <lastUpdated>20190721062505</lastUpdated>
+  </versioning>
+</metadata>
