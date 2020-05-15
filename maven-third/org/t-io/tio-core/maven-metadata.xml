@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.t-io</groupId>
+  <artifactId>tio-core</artifactId>
+  <versioning>
+    <release>shiku-1.0</release>
+    <versions>
+      <version>shiku-1.0</version>
+    </versions>
+    <lastUpdated>20200515052306</lastUpdated>
+  </versioning>
+</metadata>
